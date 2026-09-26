@@ -1,2 +1,9 @@
-# Student-study-Tracker
-A Simple Python based Student study Tracker to record study subjects and hours. My first version of a real-world Pyhton project.
+# Student Study Tracker
+My first Python project.
+This program asks for a subject and study hours,
+then displays how long I studied.
+## Concepts Used
+- input()
+- Variables
+- float()
+- f-strings
